@@ -1,1 +1,3 @@
-# Practicle-DL-with-Pytorch
+# Pytorch Tutorial
+
+https://pytorch.org/tutorials/
